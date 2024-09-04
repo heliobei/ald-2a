@@ -99,7 +99,7 @@ const TwoColumnLayout = () => {
                 <p className="font-bold mb-4 px-8">
                   A senha para acessar estes usuários é<br />
                   <span className="bg-sky-200 rounded-md px-2 font-normal text-sm dark:text-black dark:bg-sky-300">
-                    12345678!
+                    *alterar*
                   </span>
                 </p>
                 <Button
